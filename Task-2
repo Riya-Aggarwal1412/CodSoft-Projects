@@ -1,4 +1,4 @@
-/* Student Grade tracker */ 
+/* Student Grade Calculator */ 
 
 import java.util.Scanner;
 
