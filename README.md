@@ -18,7 +18,7 @@ is correct, too high, or too low.
 7. Display the user's score, which can be based on the number of attempts taken or rounds won.
 
  **Project-2** 
- **STUDNT GRADE CALCULATOR** <br>
+ **STUDENT GRADE CALCULATOR** <br>
  
 Take marks obtained (out of 100) in each subject.<br>
 **Calculate Total Marks:** Sum up the marks obtained in all subjects.<br>
