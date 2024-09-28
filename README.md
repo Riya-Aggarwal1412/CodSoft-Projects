@@ -1,10 +1,11 @@
-**Name:** Riya Aggarwal
-**Company:** CodSoft
-**ID:** CS24NY302313
-**Domain:** Java Programming
+**Name:** Riya Aggarwal<br>
+**Company:** CodSoft<br>
+**ID:** CS24NY302313<br>
+**Domain:** Java Programming<br>
 **Duration:** 15 Sep - 15 Oct 2024
 
- **Overview of the Projects**
+ **Overview of the Projects**<br>
+ 
  **Project-1** 
  **NUMBER GAME**
 1. Generate a random number within a specified range, such as 1 to 100.
@@ -15,3 +16,13 @@ is correct, too high, or too low.
 5. Limit the number of attempts the user has to guess the number.
 6. Add the option for multiple rounds, allowing the user to play again.
 7. Display the user's score, which can be based on the number of attempts taken or rounds won.
+
+ **Project-2** 
+ **STUDNT GRADE CALCULATOR** <br>
+ 
+Take marks obtained (out of 100) in each subject.<br>
+**Calculate Total Marks:** Sum up the marks obtained in all subjects.<br>
+**Calculate Average Percentage:** Divide the total marks by the total number of subjects to get the
+average percentage.<br>
+**Grade Calculation:** Assign grades based on the average percentage achieved.<br>
+**Display Results:** Show the total marks, average percentage, and the corresponding grade to the user
